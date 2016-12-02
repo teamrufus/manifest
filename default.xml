@@ -304,6 +304,7 @@
   <project path="packages/apps/Stk" name="packages-apps-Stk" />
   <project path="packages/apps/Tag" name="packages-apps-Tag" />
   <project path="packages/apps/UnifiedEmail" name="packages-apps-UnifiedEmail" />
+  <project path="packages/apps/UpdateSetting" name="packages-apps-UpdateSetting" />
   <project path="packages/apps/VideoEditor" name="packages-apps-VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="packages-apps-VoiceDialer" />
   <project path="packages/experimental" name="packages-experimental" />
